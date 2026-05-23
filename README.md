@@ -1,2 +1,2 @@
-# resource-matrix-engine
+deterministic classification engine
 Analytical core showcase
