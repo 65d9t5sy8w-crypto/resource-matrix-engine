@@ -1,2 +1,2 @@
-# resource-matrix-engine-future-
+# resource-matrix-engine
 Analytical core showcase
